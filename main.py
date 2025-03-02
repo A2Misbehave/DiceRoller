@@ -1,3 +1,9 @@
+"""
+Author: 	A2Misbehave
+Project: 	Dice Roller
+Purpose: 	Practice
+"""
+
 from pyray import *
 
 init_window(800, 450, "Hello")
